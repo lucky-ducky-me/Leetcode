@@ -13,10 +13,10 @@ namespace LeetCode_75
         static void Main(string[] args)
         {
 
-            var task = new _643_Maximum_Average_Subarray_I();
-            var nums = new int[] { 0, 1, 1, 3, 3 };
-            var k = 4;
-            var result = task.FindMaxAverage(nums, k);
+            var task = new _1004_Max_Consecutive_Ones_III();
+            var nums = new int[] { 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0 };
+            var k = 2;
+            var result = task.LongestOnes(nums, k);
 
             //foreach (var item in result)
             //{

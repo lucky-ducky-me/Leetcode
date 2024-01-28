@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="1004_Max_Consecutive_Ones_III.cs" />
     <Compile Include="1071_Greatest_Common_Divisor_of_Strings.cs" />
     <Compile Include="1431_Kids_With_the_Greatest_Number_of_Candies.cs" />
     <Compile Include="151_Reverse_Words_in_a_String.cs" />
