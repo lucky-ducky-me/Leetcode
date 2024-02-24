@@ -13,10 +13,10 @@ namespace LeetCode_75
         static void Main(string[] args)
         {
 
-            var task = new _1004_Max_Consecutive_Ones_III();
-            var nums = new int[] { 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0 };
+            var task = new _1493_Longest_Subarray_of_1s_After_Deleting_One_Element();
+            var nums = new int[] { 1, 1, 1 };
             var k = 2;
-            var result = task.LongestOnes(nums, k);
+            var result = task.LongestSubarray(nums);
 
             //foreach (var item in result)
             //{

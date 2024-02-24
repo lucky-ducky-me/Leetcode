@@ -46,6 +46,7 @@
     <Compile Include="1004_Max_Consecutive_Ones_III.cs" />
     <Compile Include="1071_Greatest_Common_Divisor_of_Strings.cs" />
     <Compile Include="1431_Kids_With_the_Greatest_Number_of_Candies.cs" />
+    <Compile Include="1493_Longest_Subarray_of_1s_After_Deleting_One_Element.cs" />
     <Compile Include="151_Reverse_Words_in_a_String.cs" />
     <Compile Include="1768_Merge_Strings_Alternately.cs" />
     <Compile Include="238_Product_of_Array_Except_Self.cs" />
