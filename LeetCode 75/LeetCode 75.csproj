@@ -48,6 +48,7 @@
     <Compile Include="1431_Kids_With_the_Greatest_Number_of_Candies.cs" />
     <Compile Include="1493_Longest_Subarray_of_1s_After_Deleting_One_Element.cs" />
     <Compile Include="151_Reverse_Words_in_a_String.cs" />
+    <Compile Include="1732_Find_the_Highest_Altitude.cs" />
     <Compile Include="1768_Merge_Strings_Alternately.cs" />
     <Compile Include="238_Product_of_Array_Except_Self.cs" />
     <Compile Include="334_Increasing_Triplet_Subsequence.cs" />
